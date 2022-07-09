@@ -1,0 +1,17 @@
+docsParser\main\Train.class
+docsParser\main\CommonFunctions.class
+docsParser\main\Internship.class
+docsParser\main\ResumeParser.class
+docsParser\main\Project.class
+docsParser\main\App.class
+docsParser\main\Education.class
+docsParser\main\PersonalDetails.class
+docsParser\main\Experience.class
+docsParser\main\DocsReader.class
+docsParser\main\Exp.class
+docsParser\main\customNLP.class
+docsParser\main\Edu.class
+docsParser\main\ReadText.class
+docsParser\main\Skill.class
+docsParser\main\Item.class
+docsParser\main\Intern.class
